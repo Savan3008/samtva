@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import SignIn from './pages/Auth/SignIn';
 import SignUp from './pages/Auth/SignUp';
 import Loader from './components/Loader';
-import routes from './routes';
+import routes from './routes/Index';
 
 const Layout = lazy(() => import('./layout/Layout'));
 const PageNotFound = lazy(() => import('./pages/PageNotFound'));
