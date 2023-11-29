@@ -1,0 +1,1 @@
+import{j as e}from"./index-d97e6660.js";const s=()=>e.jsx(e.Fragment,{children:e.jsx("div",{className:"flex flex-col gap-5",children:e.jsx("div",{className:"mb-3 flex gap-3 flex-row sm:items-center justify-between",children:e.jsx("h2",{className:"text-title-md2 font-semibold text-black dark:text-white",children:"Dashboard"})})})});export{s as default};
