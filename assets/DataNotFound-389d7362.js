@@ -1,0 +1,1 @@
+import{j as s,I as t}from"./index-785252ed.js";const o=({title:e})=>s.jsx("div",{className:"w-full my-10",children:s.jsxs("div",{className:"flex flex-col gap-3 justify-center items-center text-md font-semibold",children:[s.jsx(t,{name:"not-found"}),e]})});export{o as D};
