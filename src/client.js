@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const BASE_URL = "http://hpbhadaniya-001-site1.btempurl.com/";
-const BASE_URL = "http://hpbhadaniya001-001-site1.btempurl.com/";
+const BASE_URL = "https://hpbhadaniya001-001-site1.btempurl.com/";
 
 export const authUser = JSON.parse(localStorage.getItem("auth-user"));
 
